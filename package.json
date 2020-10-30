@@ -1,0 +1,17 @@
+{
+  "name": "TP1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aki-api": "^5.2.0",
+    "chalk": "^4.1.0",
+    "enquirer": "^2.3.6"
+  }
+}
