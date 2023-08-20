@@ -12,6 +12,6 @@
   "dependencies": {
     "aki-api": "^5.2.0",
     "chalk": "^4.1.0",
-    "enquirer": "^2.3.6"
+    "enquirer": "^2.4.1"
   }
 }
